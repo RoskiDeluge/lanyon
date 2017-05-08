@@ -3,7 +3,7 @@ layout: post
 title: Making Media From the Place You Are
 ---
 
-![Sand sculpture created by a Japanese pufferfish. (Screen grab from BBC One video)](/images/pufferfish_m.png)
+![Sand sculpture created by a Japanese pufferfish. Screen grab from BBC One video](/images/pufferfish_m.png)
 
 Media seem to be dissolving into what they’ve always been substitutes for, namely, personal relations. The reabsorption of media back into the base medium of communication is generating interesting phenomena all around: fake news, massive data gathering and privacy breaches, obvious partisanship presented as neutral positions, addictive UX design, and so on. In my opinion, these convulsions signal a budding systemic awareness that the jig is up on getting so much for so little.
 
