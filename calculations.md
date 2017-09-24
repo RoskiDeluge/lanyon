@@ -3,22 +3,21 @@ layout: page
 title: Calculations 
 ---
 
-## Mini Solar PV for Refrigerator 
+## Mini Solar PV for Refrigerator - 2, 200W Panels
 
 Power in = 200W 
 
 I = 200/12 = 16.7 A 
 
-Assuming you could make the converter 100% efficient the Power out will be 
-
-120 x I(out) = power in = 200W. 
+Assuming you could make the converter 100% efficient the power out will be 
+120 x I(out) = power in = 200W 
 
 Calculating this current give 200/120 = 1.67 A 
 
-This is for 100% conversion of the power. 
+This is for 100% conversion of the power.
 
 Generally you should work on an 80% figure (there is always power loss) so the output power will be 160W 
-(80% of 100W) and this give an output current of 160/120 = 1.33 amps
+(80% of 100W) and this give an output current of 160/120 = 1.33 amps.
 
 = 159.6 W (Produced by system)
 
