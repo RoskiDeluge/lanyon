@@ -1,3 +1,8 @@
+---
+layout: page
+title: Calculations 
+---
+
 ## Mini Solar PV for Refrigerator 
 
 Power in = 200W 
