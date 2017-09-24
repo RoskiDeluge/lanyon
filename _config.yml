@@ -5,7 +5,7 @@ permalink:           pretty
 # Setup
 title:               sfm
 tagline:             ''
-description:         '<a href="https://twitter.com/roskideluge" target="_blank">@roskideluge</a>.'
+description:         'By <a href="https://twitter.com/roskideluge" target="_blank">@roskideluge</a>'
 url:                 roskideluge.github.io
 baseurl:             'https://roskideluge.github.io'
 paginate:            5
