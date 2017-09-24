@@ -13,7 +13,7 @@ Assuming you could make the converter 100% efficient the power out will be
 
 120 x I(out) = power in = 200W 
 
-Calculating this current give 200/120 = 1.67 A 
+Calculating this current gives 200/120 = 1.67 A 
 
 This is for 100% conversion of the power.
 
