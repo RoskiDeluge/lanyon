@@ -3,7 +3,7 @@ layout: page
 title: Calculations 
 ---
 
-## Mini Solar PV for Refrigerator - 2, 200W Panels
+## Mini Solar PV for Refrigerator - 200W Production Panels
 
 Power in = 200W 
 
