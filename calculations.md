@@ -3,7 +3,7 @@ layout: page
 title: Calculations 
 ---
 
-## Mini Solar PV for Refrigerator powered by 2, 100W Panels & Battery backup
+## Solar PV system to Power a Refrigerator Using 200W & Battery Backup
 
 Power in = 200W 
 
