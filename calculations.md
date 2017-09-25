@@ -18,7 +18,7 @@ Calculating this current gives 200/120 = 1.67 A
 This is for 100% conversion of the power.
 
 Generally you should work on an 80% figure (there is always power loss) so the output power will be 160W 
-(80% of 100W) and this give an output current of 160/120 = 1.33 amps.
+(80% of 200W) and this give an output current of 160/120 = 1.33 amps.
 
 = 159.6 W (Produced by system)
 
