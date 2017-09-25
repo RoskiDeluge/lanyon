@@ -29,3 +29,7 @@ Modern (500kWh/year) fridge power consumption running 9hr/day
 = 1370Wh/9h 
 
 = 152 W (Consumed by load)
+
+Resources: 
+
+[12V, 100 Ah, Deep Cycle Battery specs](http://www.solageo.com/ProductResourceFiles/GGRYHXBJGKRX.pdf)
