@@ -4,6 +4,6 @@ title: About
 ---
 
 <p class="message">
-  The blog of South First Media.
+  Poetry inspired by technology, data, networks, McDonald's, working and parenting. 
 </p>
 
