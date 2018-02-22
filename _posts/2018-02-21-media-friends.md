@@ -3,11 +3,8 @@ layout: post
 title: Media Are My Friends
 ---
 
-In the beginning was the word,  
-but for millenia  
-the token traded  
-was simply  
-void.
+In the beginning was the word, but for millenia  
+the token traded was simply void.
 
 Back in San Jo, we'd get embroiled in some 
 innocuous altercation, have a smoke and think  
