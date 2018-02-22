@@ -10,7 +10,7 @@ Back in San Jo, we'd get embroiled in some
 innocuous altercation, have a smoke and think  
 (words are the nexus between sight and feeling).
 
-The threshold is the message; 
+The threshold is the message;  
 the path through the shifting signifiers. 
 
 Stars mean this train only stops at black market depots. 
