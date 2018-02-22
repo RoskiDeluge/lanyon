@@ -19,7 +19,7 @@ This chain holds the foundation for our I's mythos.
 
 Thin myself through scattered pieces in that ledger. 
 
-Mi preciosa, I'm there in my friends, 
+Mi preciosa, I'm there in my friends,  
 and in these letters. 
 
 
