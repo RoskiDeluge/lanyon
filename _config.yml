@@ -5,7 +5,7 @@ permalink:           pretty
 # Setup
 title:               Sample Blog
 tagline:             ''
-description:         'By <a href="https://twitter.com/roskideluge" target="_blank">@sfirstm</a>'
+description:         'By <a href="https://twitter.com/sfirstm" target="_blank">@sfirstm</a>'
 url:                 roskideluge.github.io
 baseurl:             'https://roskideluge.github.io'
 paginate:            5
