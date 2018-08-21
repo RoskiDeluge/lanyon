@@ -3,9 +3,9 @@
 permalink:           pretty
 
 # Setup
-title:               RD/a>
+title:               Sample Blog
 tagline:             ''
-description:         'By <a href="https://twitter.com/roskideluge" target="_blank">@roskideluge</a>'
+description:         'By <a href="https://twitter.com/roskideluge" target="_blank">@sfirstm</a>'
 url:                 roskideluge.github.io
 baseurl:             'https://roskideluge.github.io'
 paginate:            5
@@ -13,8 +13,8 @@ paginate:            5
 # About/contact
 author:
   name:              
-  url:               https://twitter.com/roskideluge
-  email:             roberto.delgado@gmail.com
+  url:               https://twitter.com/sfirstm
+  email:             roberto@sfirstm.co
 
 # Custom vars
 version:             1.0.0
