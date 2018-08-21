@@ -5,7 +5,7 @@ permalink:           pretty
 # Setup
 title:               Sample Blog
 tagline:             'This tagline text can be customized'
-description:         'By <a href="https://twitter.com/sfirstm" target="_blank">@sfirstm</a>'
+description:         'By <a href="https://twitter.com/sfirstm" target="_blank">@sfirstm</a> Include your Twitter, Facebook, or Instagram link here and add quick intro text to guide your visitors'
 url:                 roskideluge.github.io
 baseurl:             'https://roskideluge.github.io'
 paginate:            5
