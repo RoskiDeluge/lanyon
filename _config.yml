@@ -4,7 +4,7 @@ permalink:           pretty
 
 # Setup
 title:               Sample Blog
-tagline:             ''
+tagline:             'This tagline text can be customized'
 description:         'By <a href="https://twitter.com/sfirstm" target="_blank">@sfirstm</a>'
 url:                 roskideluge.github.io
 baseurl:             'https://roskideluge.github.io'
