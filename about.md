@@ -4,11 +4,7 @@ title: About
 ---
 
 <p class="message">
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<em>Here & There</em> es un proyecto artístico colaborativo.<br><br>Deseamos regar mensajes positivos para la humanidad desde nuestros hogares en Puerto Rico y en Hawai'i.<br><br>Deseamos instigar transformaciones silenciosas a través de la creatividad.
+  <br><br>---<br><br>
+  <em>Here & There</em> is a collaborative art project.<br><br>We desire to spread positive messages for humanity from our homes in Puerto Rico and Hawai'i.<br><br>We desire to instigate silent transformations through creativity.
 </p>
-

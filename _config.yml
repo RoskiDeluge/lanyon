@@ -3,18 +3,18 @@
 permalink:           pretty
 
 # Setup
-title:               Sample Blog
-tagline:             'This tagline text can be customized'
-description:         'By <a href="https://twitter.com/sfirstm" target="_blank">@sfirstm</a> Include your Twitter, Facebook, or Instagram link here and add quick intro text to guide your visitors'
-url:                 roskideluge.github.io
+title:               Here & There
+tagline:             ''
+description:         'Here & There is a collaborative art project'
+url:                 handt.art
 baseurl:             'https://roskideluge.github.io'
 paginate:            5
 
 # About/contact
 author:
   name:              
-  url:               https://twitter.com/sfirstm
-  email:             roberto@sfirstm.co
+  url:               
+  email:             roberto@sfirstm.com
 
 # Custom vars
 version:             1.0.0
